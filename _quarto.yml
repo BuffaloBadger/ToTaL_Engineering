@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "ToTaL Engineering"
+  navbar:
+    title: false
+    search: true
+    logo: graphics/Banner.png
+    logo-href: http://buffalobadger.github.io
+    left:
+      - text: "Reaction Engineering Basics"
+        href: http://buffalobadger.github.io/RE_Basics
+      - text: "SCoRE"
+        href: score.qmd
+      - text: "ToTaL Engineering"
+        href: index.qmd
+      - text: "The Sett"
+        href: the_sett.qmd
+      - text: "About"
+        href: http://buffalobadger.github.io/about.html
+  search:
+    location: navbar
+    type: overlay
+  page-footer:
+    background: light
+    right: 
+      - text: Copyright 2024, Carl Lund 
+  favicon: graphics/BuffaloBadger_16_16.png
+  sidebar:
+    style: floating
+    search: false
+    collapse-level: 1
+    contents: 
+      - text: "Welcome"
+        href: index.qmd
+      - section: "My Problem-Solving Course"
+        contents: 
+          - text: "About the Course"
+      - section: "My Discussion Course"
+        contents:
+          - text: "About the Course"
+      - section: "Archive"
+        contents: 
+          - text: "ToTal PS"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

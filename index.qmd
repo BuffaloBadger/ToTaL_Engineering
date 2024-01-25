@@ -1,0 +1,10 @@
+
+{{< include _top_logo.qmd >}}
+
+## Welcome! {.ch}
+
+"ToTaL Engineering" stands for "Thoughts on Teaching and Learning Engineering".
+
+## License {.ch}
+
+{{< include _bottom_license.qmd >}}
