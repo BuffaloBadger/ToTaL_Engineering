@@ -1,0 +1,27 @@
+---
+listing:
+  id: total_ps_listings
+  contents: total_ps_archive
+  sort: "date asc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  page-size: 5
+page-layout: full
+title-block-banner: true
+---
+
+{{< include _top_logo.qmd >}}
+
+ToTaL Engineering started out as a blog named ToTaL PS (Thoughts on Teaching and Learning Problem-Solving). This archive includes the posts from that blog.
+
+## Archived Posts from ToTaL PS {.ch}
+
+::: {#total_ps_listings}
+:::
+
+## License {.ch}
+
+{{< include _bottom_license.qmd >}}
+

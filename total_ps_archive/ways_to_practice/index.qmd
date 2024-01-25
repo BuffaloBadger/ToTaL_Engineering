@@ -1,0 +1,31 @@
+---
+title: "In-Class Practice"
+author: "BuffaloBadger"
+date: "2023-09-25"
+categories: [active learning, practice]
+draft: false
+---
+
+![](IMG_5531.jpg)
+
+In many ways, the ideal time and place for students to practice problem solving is during class. Many years ago I converted my problem-solving course to a flipped classroom format, but even before that, I started incorporating "Learning Activities" into my lectures. Instead of presenting the solution of a problem in class, I would assign the reading of a problem solution from the textbook to be completed before the class met. Then in place of presenting that solution in class, I instead had the class work through the solution to a similar problem as an in-class activity. If a solved problem is available that presents the solver's thinking as they solve the problem that's a great solution to assign for before class. If no such solution is available, as is often the case, I would encourage the students to write brief questions whenever they didn't understand why the person solving the problem did what they did, or how the person solving the problem knew how to do what they did.
+
+In my course, we typically spend several class meetings considering a given type of problem, so there are multiple opportunities for learning activities for a given problem type. Before we start each of these learning activities I remind the students of its purpose. I emphasize that the goal of the learning activity is for them to learn how to solve that type of problem, not getting the correct answer. I typically point out that getting the correct answer will occur naturally if they know how to approach solving the problem.
+
+I repeatedly point out that getting stuck during one of the in-class learning activities is the best thing that can happen to them. I tell them that when they get stuck they have either identified a point where they don't know what to do or they've found something they don't know how to do. I tell them that this is the purpose of the activity, because as soon as they identify that point, I'm right there to help them get unstuck. In fact, I generally encourage the students to work together with those sitting close to them as we progress through the activity, because often times, a student will more easily understand the explanation of a point from a classmate than they will my explanation. These activities are a good opportunity to attempt to establish a mastery-approach goal structure in the class by emphasizing that their objective during the activity should be to learn how to solve that type of problem and not to show me or their classmates that they got the correct answer.
+
+In my last post, I argued that students need to practice more than how to solve a given problem. They need to practice identifying a problem's type, they need to practice knowing which of the skills and knowledge they have acquired to use for a given problem type, they need to practice knowing the general approach for using those skllls and knowledge, and only after that do they need to practice actually solving the problem. For this reason, when I first show the problem statement, I start almost every learning activity with a question along the following lines.
+
+> Okay, in today's class we are studying [isolated ideal reactor modeling] problems, so you can be pretty sure that is a [isolated reactor modeling] problem. But supose that this was an exam covering the past six weeks of the course. How would you know that his is a [isolated reactor modeling] problem and not a [kinetics data analysis] problem or one of the other types of problems we've studied previously.
+
+Once I get some responses and we've noted the distinguishing characteristics of the problem at hand that allow its identification, the next question I almost always ask is "what is the general approach for solving a [isolated reactor modeling] problem?" We then spend a few minutes outlining the general approach for solving the problem. Note that both the identification of the problem type and the general approach for solving it would have been presented earlier in this class and/or in previous classes.
+
+From this point on, we walk through that general approach for solving this type of problem, applying it to the specific problem in the learning activity. The first time we solve a given type of problem in a learning activity, the solution steps are highly scaffolded. That is, I list each step and then direct them how to complete it. This scaffolding is then gradually removed in subsequent learning activities that involve that same type of problem. By the last learning activity on that type of problem, I may only ask them how they know what type of problem it is and what is the general approach for solving it, after which I'll simply tell them to jump in and solve it.
+
+Used properly (and with buy-in from the students) I think these learning activities are the *best* way for students to practice, The biggest drawback is that time is limited, but having an expert there to get them un-stuck immediately is tremendously valuable. There are two other things that I think are very important.
+
+The first is to walk among students as they work and not just stand at the front of the room. I find that students are more likely to ask me a question one-on-one as I stroll past them than they are to raise their hand and ask their question for whole class to hear. (When they are that brave, I always try to praise them for asking!)
+
+The second important thing is that I provide a written solution. Due to the limited time available, some students likely won't fully process the solution as we proceed through it in class. When I prepare this written solution, I eliminate the questions and the scaffolding, replacing them with factual statements that highlight my thinking. For example, in place of the learing activity question, ""how would you know this is an isolated reactor modeling problem?", I might write "I can see that this is an isolated reactor modeling problem because...."
+
+In my next post I'll examine some other forms of practice, but as I said, I think in-class learning activities can offer the highest quality problem-solving practice.

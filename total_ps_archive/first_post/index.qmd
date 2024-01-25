@@ -1,0 +1,20 @@
+---
+title: "ToTaL PS, What's it all about?"
+author: "BuffaloBadger"
+date: "2023-06-05"
+categories: [problem-solving]
+draft: false
+
+---
+
+![](DSC00252.JPG){width="50%" fig-align="center"}
+
+ToTaL PS is a blog I created to share my "Thoughts on Teaching and Learning Problem-Solving," (ToTaL PS). "Problem-Solving" can have multiple meanings. Here the focus is actually on undergraduate college level science and engineering problem-solving *courses*. For the purposes of this blog, these are courses where the professor presents theory and equations and shows how to use the theory and apply the equations to explain and predict how some physical system performs. Most, if not all, of the student learning outcomes for this type of problem-solving course center on the learner being able to use the theory and equations to answer questions about the performance of systems to which they apply.
+
+The problems in these courses are often referred to as "word problems" or "story problems." Typically they consist of a few paragraphs that describe a system and provide information about how it is being operated. Then they ask one or more questions about how the system performs or how the system should be operated to achieve some desired performance. The problems can be classified as response, optimization or design problems. In a response problem the system and the way it is operated are specified and the question asks the student to determine the value of a specific input, output or system parameter. Optimization problems typically involve questions asking for specification of one or more system properties or operating parameters that maximize or minimize some other specified system output or response. Design problems differ in that they allow the problem-solver to make choices about one or more system properties or operating parameters with the goal of achieving or optimizing a specified system response. Optimization and design problems may also be constrained. In a constrained problem restrictions are placed upon the allowed answers to the questions being asked. Problems can also be classified as being open-ended or not. An open-ended problem has more than one "correct" answer. Design problems are open-ended, and optimization problems can be. In contrast, a problem that is not open-ended has a single answer that is correct. Most response problems are not open-ended.
+
+Another characteristic of the kind of problem-solving courses that this blog focuses upon is that the students are assigned homework problems or sets of homework problems. In principle, these homework problems align with the course learning objectives. That is, when a learner can solve one of these problems correctly, it is an indicator that the learner has fulfilled one of the course learning objectives. Beyond homework problems, problem-solving courses very often use exams to evaluate the degree to which students have achieved the course learning objectives. As with homework problems, the problems included in exams typically align with the course learning objectives.
+
+I have been teaching problem-solving courses like the one I've described here since 1980. Before that, I was a student in many problem-solving courses. Over the years I've used different course structures, teaching methods, modes of evaluation, etc. Some of them worked and some didn't. I've also used different approaches to learn myself, and observed students using a variety of learning approaches. Again, some learing strategies are more effective than others.
+
+In more recent years, I've done some applied research on teaching and learning in problem-solving courses. So I decided to start this blog as a place where I can share my thoughts and experiences in case someone might be interested. I expect that most posts will be introduced from an instructor's perspective, but I intend to discuss them from the perspectives of learners *and* instructors. Hopefully there will be some useful, or at least thought-provoking, information for both.

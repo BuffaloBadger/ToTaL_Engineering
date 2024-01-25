@@ -1,0 +1,33 @@
+---
+title: "A Waste of Time"
+author: "BuffaloBadger"
+date: "2023-08-14"
+categories: [exam, evaluation]
+draft: false
+---
+
+![](A7401458.JPG){fig-align="center" width="50%}
+
+I don't know if this is very widely practiced today, but I can remember problem-solving courses that I took where we were not provided with any equations on exams. We were told we should memorize any equations we might need. In my opinion, it is a total waste of a student's time to require them to memorize equations for an exam. Here are a few reasons why.
+
+The time a student spends memorizinng equations, instead could be spent making sure they know how to use those equations. Is the goal of the course to know equations or to know how to use them?
+
+In my own professional life, there are some equations that I just know. That's because I use them all the time, not because I consciously attempted to memorize them. More importantly, when I have a problem to solve, I don't rely on my memory of an equation. If I have the slightest doubt, I pull out a text or reference book and make sure I have the equation written correctly. In fact, I could argue that it is more important for a student to know where to find an equation than it is to have it memorized. Why force a student to solve a problem using equations pulled from their memory if practicing engineers don't do so?
+
+Memorizing an equation has no lasting impact. If they don't use the equation regularly, they will eventually forget it. Going back to how people learn, one of the principles is that to develop mastery, students must acquire component skills, practice integrating them and know when to apply what they have learned. Yes, it is important to know the equation (or at least that it exists), but for lasting impact it is equally important to know when to use it and to have practiced doing so.
+
+If students are expected to memorize equations, doing so should be listed as one of the course objectives, and that raises another problem. If memorizing equations is a course objective, then it should be assessed separately from other course objectives. If the only evaluation of whether a student has memorized an equation is putting a problem that requires its use on an exam, the the evaluation is likely flawed. Presumably there is also a course objective that the student is able to solve problems that require its use. A student could fail to solve this exam problem because (a) they failed to memorize the equation, in part or in whole, (b) they do not know how to use the equation or (c) they are unable to integrate other necessary knowledge into their solution. So unless the grading of the exam problem is very detailed, the problem will not facilitate the separate assessment of any one of the learning objectives.
+
+Now if you are a student reading this, you are pretty much out of luck with respect to having to memorize equations. If your instructor requires it, it doesn't matter that I think its a waste of time, you still need to memorize the equations. One thing I sometimes found useful in this situation was knowing how to derive the equation instead of memorizing it. This can be useful in two ways. First, if it is a simple derivation, it may be more efficient to just derive it on an exam. Even if the derivation is more involved, knowing the derivation can help, for example, if you can't remember whether a given term is positive or negative. Knowing how it is derived may make it clear to you.
+
+Back to the instructors in the crowd, what are the alternatives to requiring students to memorize equations? One I've seen used is to allow the students to make a one-page (or x-page) "cheat sheet" that they are allowed to use during each exam. One issue with this approach is that they can include a lot more than just equations on such a cheat sheet. For example, they could include a few key solved problems on it to use as guides to solving the exam questions. Also it can create an uneven playing field. Is the purpose of the exam to determine who has learned how to solve the problems at hand, or who can make the most helpful cheat sheet?
+
+An extreme version of the cheat sheet is an open-book exam. One problem I've seen with this is that the instructor often feels they need to make the exam problems much more difficult since the students will have access to the book. As such, the students may not have practiced solving problems with a difficulty level that high. A second problem I've seen is that some students don't study as hard for an open book exam. As a consequence, some spend more time paging through the book than they do showing what they know.
+
+I don't claim to have the answer, but here's what I do. Before the course begins, I compile a course equation summary that includes most of the equations that are used over the course of the semester. It's typically 3 pages long. The equations are in groups (in my case, thermo equations, reactor design equations, etc.), but they are not individually identified. By not identifying the individual equations, it becomes necessary for the students to be able to pick out which one they need for a particular problem. I feel that having the ability to do so shows some level of understanding of the subject.
+
+As an example, in my course a large number of the problems involve one of four types of reactors. The equations used to model each type of reactor are slightly different from each other. Thus, when an exam question involves one specific type of reactor, the students still need to be able to pick out the equations for that reactor type from among those for all the other reactor types. In other words, it requires a little bit of familiarity with the equations that typically comes from having practiced solving problems before the exam.
+
+I give them the equation summary on day one of the course. I encourage them to use it, and not the book or notes or whatever, when solving problems in class and for homework. I promise them that the exact same equation summary will be included as part of every exam. In this way, they gain familiarity with the equation summary prior to the exam.
+
+In the end, I think the equation summary, the cheat sheet, or (to a lesser extent the open book) are all better than forcing students to memorize equations. To me, it is more important that they know which equation to use in a given problem-solving context and how to use it than to have memorized it. I'd rather they spend their exam preparation time practicing those skills instead of memorizing equations.

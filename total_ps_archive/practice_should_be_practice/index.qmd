@@ -1,0 +1,27 @@
+---
+title: "Practice Should be Practice"
+author: "BuffaloBadger"
+date: "2023-08-29"
+categories: [homework, practice]
+draft: false
+---
+
+![](IMG_5502.jpeg){fig-align="center" width="50%"}
+
+One of the seven research-based principles of "How Learning Works"[^1] states that "To develop mastery, students must acquire component skills, practice integrating them and know when to apply what they have learned." Another says "Goal-directed practice coupled with targeted feedback enhances the quality of students' learning." So two of seven priciples that are central to learning refer to the need for practice. One might then ask "What constitutes practice?".
+
+[^1]: S. A. Ambrose, M. W. Bridges, M. DiPietro, M. C. Lovett, and M. K. Norman. _How Learning Works: Seven Research-Based Principles for Smart Teaching_. The Jossey-Bass Higher and Adult Education Series. San Francisco: Jossey-Bass, 2010.
+
+In a problem-solving course, homework *can* be a great opportunity for a student to practice. Previously, I've stated my opinion that homework that is graded and counts toward a student's final course grade is not true practice. Yes, the student does need to go through the process of solving the problem, but their focus will likely be split. They know that they need to learn how to solve the type of problem they have been assigned, but they also know that their course grade depends upon the acccuracy of their solution.
+
+In terms of goal structure, graded homework is at best split between making performance approach goals (getting the correct answer) and mastery approach goals (knowing how to get the correct answer) salient. Based upon the prevalence of outright copying (from a student or from an online source of the solution) and a mimicry approach to completing an assignment (mimic a solution to a, hopefully, similar problem), I suspect that graded homework establishes more of a performance approach goal structure than one of mastery approach.
+
+Indeed, I suspect that many students don't think that deeply about it, and that they assume that they are learning when they utilize one of those approaches. They probably are learning to some extent, but using those approaches is not an efficient way to achieve problem-solving mastery.
+
+Now I'm not saying that graded homework is necessarily bad, but I do feel very strongly that any graded homework on a given type of problem should be preceded by *ungraded* opportunities to practice solving that type of problem. Before their ability is assessed, students should have the opportunity to attempt to solve a problem type, fail, and learn from their failure.
+
+I like sports. If you look in the record books for NFL quarterbacks, their pass completion percentage factors in *only* the passes they attempted during games. The amount of time they spend practicing football is probably ten or more times greater than the amount of time they spend playing actual games. They undoubtedly throw many, many more passes in practice than they throw in games. In practice they can try something new, and if it seems promising, they can develop it. They can also make mistakes and learn from them. (Coaching, i. e. targeted feedback can play a big role here, but that's a topic for another day). The key point I'm making is that none of the passes they attempt during practice are included in their official pass completion percentage.
+
+Taking it a step further, those NFL quarterbacks have already thrown thousands of passes before they ever got to the NFL, and still, their practice passes (homework grades) are not included in their official statistics (final course grade). Students taking a problem-solving course may *never* have attempted a given problem type prior to a given homework assignment. They deserve the opportunity to throw a few passes in practice before they are put into a game where their completions will count toward their official completion percentage.
+
+So what constitutes practice? In a problem-solving course, I'd say practice is an opportunity for a student to try to solve the same kind of problem that they will eventually be graded on. It's an opportunity to "get stuck," and thereby to identify and correct something they had not yet fully understood. It's an opportunity to complete an assignment thinking they had "aced" it, only to learn that one of the steps they had taken was completely wrong and should have been done differently. It's the opportunity to learn from all of those things without getting penalized.

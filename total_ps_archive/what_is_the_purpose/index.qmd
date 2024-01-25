@@ -1,0 +1,20 @@
+---
+title: "What is the Purpose of Homework?"
+author: "BuffaloBadger"
+date: "2023-07-03"
+categories: [homework]
+draft: false
+
+---
+
+![](DSCN00990006.jpg){width="40%" fig-align="center"}
+
+It's been a long time since I was a student in an engineering problem-solving course. I do remember that I was assigned a lot of homework problems, but I don't recall spending any time consciously thinking about what its purpose was. The professor assigned it, and the score that I earned by submitting it represented some fraction of my final grade in the course. I don't reccollect any of my professors ever telling me what was the purpose of the homework they assigned. (Some of them may have done so; if they did it went in one ear and out the other.) Reflecting back to those times, I believe that subconsciously I figured that the purpose of homework was to show the professor that I could solve the problems they assigned. In other words, I pretty much considered homework to be a form of evaluation or assessment of my learning.
+
+There are at least three problems with that mind-set. First, my goal when solving the problems was to get the correct answer because that was the basis upon which the homework was graded. I was a student before the internet existed, so I couldn't go online hoping to find the solution to the problem to make sure I got it right. Some fraternities and sororities on campus had files of old exam and homework solutions, but I didn't have access to any of those, either. So I pretty much ended up solving the problems myself, but when I was done, I'm quite certain that I checked with classmates to see if they got the same answer, and if they didn't, we'd sit down and try to determine which of us was correct and then revise the incorrect solution.
+
+I'm very confident that when I solved those problems, I did so primarily by mimicry. That is, I found an example that was solved in the textbook or my class notes, and then I mimicked that solution to get an answer to the problem I'd been assigned. In short, and in part because my goal was to get the correct answer, the second problem with my mindset on the purpose of homework was that I missed opportunities to expand or deepen my knowledge through solving the problems independently. More critically I missed the opportunity to develop my independent problem-solving skills. Those skills evolved gradually, as over time I started to remember *how* the problems were solved in the solutions I mimicked. It certainly wasn't the most efficient way to learn how to solve the problems.
+
+The third problem relates to feedback. Now to be honest, not much feedback was actually provided. Most of the time, a "correct" solution was posted somewhere (again, pre-internet, so probably inside some glass enclosed bulletin board), and my returned homework may have had some marks. Usually, though the marks were simply a red "X" through an equation or value that was incorrect. It didn't really matter that much, though, because with my perspective on the purpose of homework (show the professor I could solve the problems they assigned), checking my solution came after the fact and wouldn't change the result. I think I usually checked "to see what I got wrong" in the hope that I'd remember it when exam time came and not make the same mistake. I didn't engage in any metacognitive thinking, though, to try to identify flaws in my study habits or to consider whether I knew **how** to approach the problem. As I said, I solved the problem by mimicry, so the approach I used wasn't really mine, anyway.
+
+The point of this post isn't to reveal the purpose of homework in a problem-solving course. Homework can serve several purposes. The point is that the purpose for the homework that I (mostly subconsciously) inferred had a significant influence on the methods I used to solve the problem. My next few posts will take a closer look at how the way homework is presented can affect the way students approach it.

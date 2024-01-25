@@ -1,0 +1,22 @@
+---
+title: "Book Review: How Learning Works"
+author: "BuffaloBadger"
+date: "2023-06-19"
+categories: [learning science]
+draft: false
+
+---
+
+![](HLW.jpg){width="40%" fig-align="center"}
+
+In 2013 I attended a conference on the future of engineering education. It brought together a number of engineering professors who were interested in improving the way engineers are educated in the U. S. I have the sense that like me, most in attendance did not have any formal training in education. One of the speakers noted that he, too, began conducting education research with no formal training in education. He said that a book by Ambrose, Bridges, DiPietro, Lovett and Norman was tremendously helpful when he was getting started. That book is "How Learning Works, 7 Research-Based Principles for Smart Teaching[^1]."
+
+[^1]: S. A. Ambrose, M. W. Bridges, M. DiPietro, M. C. Lovett, and M. K. Norman. _How Learning Works: Seven Research-Based Principles for Smart Teaching_. The Jossey-Bass Higher and Adult Education Series. San Francisco: Jossey-Bass, 2010.
+
+"How Learning Works, 7 Research-Based Principles for Smart Teaching" provides a nice summary of research related to how people learn. It is conveniently organized, starting with an introduction where the authors present seven principles of how people learn that have emerged from decades of research on the topic. The principles are (1) students' prior learning can help or hinder learning, (2) how students organize knowledge influences how they learn and apply what they know, (3) students' motivation generates, directs and sustains what they do to learn, (4) to develop mastery, students must acquire component skills, practice integrating them and know when to apply what they have learned, (5) goal-directed practice coupled with targeted feedback enhances the quality of students' learning, (6) students' current level of development interacts with the social, emotional and intellectual climate of the course to impact learning, and (7) to become self-directed learners, students must learn to monitor and adjust their approaches to learning.
+
+That introductory chapter is followed by seven chapters that each focus on one of the seven principles I just listed. These seven chapters are all structured the same way. They begin with two short vignettes. In each vignette a professor describes something they experienced in an actual classroom. The chapter then proceeds to analyze what was going on in each vignette, showing how that chapter's learning principle applies. A nice summary of related research literature and findings that support the principle follows. Each of these chapters next presents strategies, based on that literature, that might be used in the situations described in the vignettes. Each of these chapters concludes with a summary. Following the seven chapters focused on the learning principles, an overall conclusion is presented.
+
+The back portion of the book has eight appendices and a comprehensive list of references. The appendices describe things that might help address an issue related to one of the learning principles. They all begin with "What is," or "What are." For example, Appendix F is titled "What are Exam Wrappers and How Can We Use Them." The subjects of the other appendices are student self-assessment, concept maps, rubrics, learning objectives, ground rules, checklists and reader response/peer review.
+
+I have found myself going back to this book repeatedly since I first read it. I highly recommend "How Learning Works." You don't need to be an educational specialist to read and understand it. It's a great and accessible way for teachers and students alike to broaden their understanding of how learning works.

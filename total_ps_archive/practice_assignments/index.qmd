@@ -1,0 +1,13 @@
+---
+title: "Last Post for 2023"
+author: "BuffaloBadger"
+date: "2023-11-17"
+draft: false
+---
+
+![](DSCN08810004.jpeg)
+
+This will be my last post for 2023. To put it succinctly, I've been presenting and organizing my posts by teaching topic, and instead, I want to use a chronological approach. For the most part, my posts have attempted to present a generalized description of something I tried while teaching a chemical engineering problem-solving course on kinetics and reaction engineering. This makes each topic I introduce appear to be a stand-alone item whereas in reality, all of the things I've tried are inter-related. As a result I'm finding it difficult to fully explain why I tried something and to discuss the results thoroughly because much of the background is missing.
+
+I try to assess my teaching periodically, identify weaknesses and strengths, and make adjustments to hopefully address the weaknesses. So I'm going to take a month or so to plan, and when I resume posting in 2024, I'll start with an assessment of my kinetics and reaction engineering problem-solving course from back in 2005. I'll assess the way the course was being taught, identify things I wanted to do better, describe what I did to try to improve those aspects of the course and the reasoning behind them. Then I'll jump ahead a few years and present an assessment of the course after those adjustments and repeat the cycle. It's my hope that instructors and students will still find the ideas and information useful when presented in this way, but I guess we'll see....
+
