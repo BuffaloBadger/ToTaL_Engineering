@@ -3,7 +3,15 @@
 
 ## Welcome! {.ch}
 
-"ToTaL Engineering" stands for "Thoughts on Teaching and Learning Engineering".
+Welcome to ToTaL Engineering which is short for thoughts on teaching and learning engineering. My name is Carl Lund, aka the BuffaloBadger, and I've been a professor of chemical engineering at the University at Buffalo^[This site is not affiliated in any way with the University at Buffalo, and I am fully responsible for the content.] since the fall of 1986. I've created this site as way of sharing my methods, experiences, and ideas related to teaching undergraduate engineering.
+
+The site began life in 2023 as a blog named ToTaL PS, where the PS stood for problem solving. In less than a year it became apparent to me that writing short, bi-weekly blog posts was not for me. So I switched to the present format which I liken to keeping a journal about my teaching. New entries will not appear on any regular schedule, but when they do they likely will be longer and hopefully more cohesive. I'm teaching a new elective course this spring (2024) that does not involve traditional engineering problem solving. I expect to share my experiences teaching it, as well, so I renamed the site as ToTaL Engineering.
+
+Right now the site has three sections. The first is about the course I teach on chemical engineering kinetics and reaction engineering. I consider it to be a typical engineering problem-solving course. I've taught this course in all but three fall semesters since 1986. (It has only been offered in the fall during that time.) I have a lot to write before that section of the site catches up with my current practices when teaching the course.
+
+The second section is about an elective course on energy and the environment. I am teaching this course for the very first time this spring. So this section of the site will hopefully stay fairly closely synced with my current offering of the course. The third section of the site is an archive where, for now, the old ToTaL PS blog posts can be found.
+
+So welcome to ToTaL Engineering. I hope it proves to be useful or insightful to both engineering instructors and engineering students.
 
 ## License {.ch}
 
