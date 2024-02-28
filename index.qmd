@@ -1,5 +1,5 @@
 
-{{< include _top_logo.qmd >}}
+{{< include includes/_top_logo.qmd >}}
 
 ## Welcome! {.ch}
 
@@ -15,4 +15,4 @@ So welcome to ToTaL Engineering. I hope it proves to be useful or insightful to 
 
 ## License {.ch}
 
-{{< include _bottom_license.qmd >}}
+{{< include includes/_bottom_license.qmd >}}

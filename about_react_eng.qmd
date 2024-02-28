@@ -1,0 +1,31 @@
+---
+bibliography: references.bib
+csl: ieee-with-url.csl
+---
+
+{{< include _top_logo.qmd >}}
+
+## About My Problem-Solving Course {.ch}
+
+This course is a required, undergraduate course on chemical kinetics and chemical reactor design. When discussing it here in *ToTaL Engineering*, I will try to keep the chemical engineering to an absolute minimum and focus more generally on educational aspects. In this course, I present theories, derive and simplify equations, and show how to use the theory and equations to answer questions about reactions and reactor systems. The learning outcomes center around the learner being able to formulate and solve equations to answer similar questions. The questions typically take the form of “story problems” that consist of a written paragraph or two that provide some information and then ask one or more questions. As such, I consider it to be a prototypical engineering problem-solving course.
+
+The class has always carried three credits, and it has always been offered in the fall semester only. It meets for fifty minutes, three times per week over the course of 14 to 15 weeks, with a three-hour final exam period scheduled a few days to a week after classes end. Prior to the fall of 2008 it was listed in the fourth year of the four-year curriculum and most of those enrolled were seniors. In fall of 2008 the curriculum was revised and it was listed in the third year. However, students can delay taking it until their senior year without delaying their graduation. As a consequence, since 2008 a mix of juniors and seniors have typically enrolled in the course.
+
+I completed my Ph. D. in 1981, after which I worked in an industrial corporate research laboratory for five years. In 1986 I moved to the University at Buffalo, and I started teaching this course mid-way through that fall semester when the teacher who started the semester developed a serious health issue. My previous teaching experience included serving as a teaching assistant and, during my final year of graduate school, teaching a course with full-course responsibility. I taught it every year after that through 1997. Between 1998 and 2000 I did not teach the course, resuming in the fall of 2001 and teaching it very fall since that time. 
+
+theory and equations groups
+mechanisms
+non-continuous reactors and reactor systems
+continuous stirred tank reactors and reactor systems
+continuous plug flow reactors and reactor systems
+axial dispersion reactors
+segregated flow reactors
+
+each system has it's own theory and equations, but share the same types of problems.
+
+three main systems with for any one system, use theory and equations in different ways for each of four main problem types: parameter estimation, system response, system optimization and system design
+
+
+## License {.ch}
+
+{{< include _bottom_license.qmd >}}

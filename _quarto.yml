@@ -13,13 +13,13 @@ website:
       - text: "Reaction Engineering Basics"
         href: http://buffalobadger.github.io/RE_Basics
       - text: "SCoRE"
-        href: score.qmd
+        href: file:///Users/lund/Projects/Kinetics/SCoRE/_site/index.html
       - text: "ToTaL Engineering"
         href: index.qmd
-      #- text: "The Sett"
-      #  href: the_sett.qmd
+      - text: "The Sett"
+        href: file:///Users/lund/Projects/The_Sett/_site/index.html
       - text: "About"
-        href: http://buffalobadger.github.io/about.html
+        href: file:///Users/lund/Projects/BuffaloBadger.github.io/_site/about.html  
   search:
     location: navbar
     type: overlay
@@ -38,6 +38,7 @@ website:
       - section: "My Problem-Solving Course"
         contents: 
           - text: "About the Course"
+            href: about_react_eng.qmd
       - section: "My Discussion Course"
         contents:
           - text: "About the Course"
