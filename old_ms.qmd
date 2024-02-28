@@ -3,7 +3,7 @@ bibliography: references.bib
 csl: ieee-with-url.csl
 ---
 
-{{< include _top_logo.qmd >}}
+{{< include includes/_top_logo.qmd >}}
 
 ## About My Problem-Solving Course {.ch}
 
@@ -199,4 +199,4 @@ Assessment of ten offerings of an engineering problem-solving course revealed a 
 
 ## License {.ch}
 
-{{< include _bottom_license.qmd >}}
+{{< include includes/_bottom_license.qmd >}}

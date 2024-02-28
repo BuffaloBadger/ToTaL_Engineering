@@ -12,7 +12,7 @@ page-layout: full
 title-block-banner: true
 ---
 
-{{< include _top_logo.qmd >}}
+{{< include includes/_top_logo.qmd >}}
 
 ToTaL Engineering started out as a blog named ToTaL PS (Thoughts on Teaching and Learning Problem-Solving). This archive includes the posts from that blog.
 
@@ -23,5 +23,5 @@ ToTaL Engineering started out as a blog named ToTaL PS (Thoughts on Teaching and
 
 ## License {.ch}
 
-{{< include _bottom_license.qmd >}}
+{{< include includes/_bottom_license.qmd >}}
 
