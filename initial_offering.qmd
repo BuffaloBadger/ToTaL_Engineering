@@ -1,0 +1,16 @@
+---
+bibliography: references.bib
+csl: ieee-with-url.csl
+---
+
+{{< include includes/_top_logo.qmd >}}
+
+## The Initial Offering {.ch}
+
+Energy and the environment offers an extremely broad range of topics that might be considered. This is an elective course, and one of my primary goals when designing the course was to give the students control over what they chose to learn about. I reasoned that they are more likely to engage in learning when they can choose to learn about something of personal interest to them. I also wanted to make them aware that energy generation and use results in many environmental impacts in addition increasing levels of atmospheric CO~2~, and give them the freedom to explore any environmental aspects of energy production.
+
+... to be continued when I next have time.
+
+## License {.ch}
+
+{{< include includes/_bottom_license.qmd >}}

@@ -1,0 +1,18 @@
+---
+bibliography: references.bib
+csl: ieee-with-url.csl
+---
+
+{{< include includes/_top_logo.qmd >}}
+
+## The Early Years {.ch}
+
+I completed my Ph. D. in 1981, after which I worked for five years for Exxon in their Corporate Research Laboratories. In 1986 I moved to the University at Buffalo (UB). My previous teaching experience included serving as a teaching assistant and, during my final year of graduate school, teaching a course with full-course responsibility.
+
+I started teaching this course mid-way through my first fall semester at UB when the teacher who started the semester developed a serious health issue. I taught it every year after that through 1997. Between 1998 and 2000 I did not teach the course. I resumed teaching it in the fall of 2001 and have taught it very fall since that time.
+
+... to be continued when I next have time.
+
+## License {.ch}
+
+{{< include includes/_bottom_license.qmd >}}
