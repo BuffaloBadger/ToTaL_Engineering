@@ -5,11 +5,53 @@ csl: ieee-with-url.csl
 
 {{< include includes/_top_logo.qmd >}}
 
-## The Initial Offering {.ch}
+## The Initial Offering of Energy and the Environment {.ch}
 
-Energy and the environment offers an extremely broad range of topics that might be considered. This is an elective course, and one of my primary goals when designing the course was to give the students control over what they chose to learn about. I reasoned that they are more likely to engage in learning when they can choose to learn about something of personal interest to them. I also wanted to make them aware that energy generation and use results in many environmental impacts in addition increasing levels of atmospheric CO~2~, and give them the freedom to explore any environmental aspects of energy production.
+Energy and the environment offers an extremely broad range of topics that might be considered. I decided to examine "energy flows" that start with one or more inputs taken from the environment and end with the consumption energy to achieve a desired outcome such as propulsion of a vehicle, heating of a building, operating a computer, etc. Along any one energy flow, there are a variety of transportation, storage, processing and conversion steps. The energy flow "touches" the enviroment at almost every step by taking additional inputs from the environment, releasing materials back to the environment, or altering ecosystems. Many energy flows also produce byproducts that add environmental impacts as they are produced, used and ultimately disposed of. In principle, a large set of environmental impacts can be mapped to each energy flow.
 
-... to be continued when I next have time.
+It isn't possible to follow every energy flow, but by considering varied starting inputs and end uses, an appreciation for the range and magnitude of environmental impacts can be gained. From each starting input, there may be paths to a number of end uses, and the energy consumed in each end use may have originated from a number of starting inputs. Examining energy flows that use common starting inputs or energy flows that support the same end use can reveal environmental, and other, trade-offs associated with different energy flows.
+
+I had a number of **goals** in mind as I considered how to structure the course.
+
+* Given that a comprehensive examination of energy and the environment is not feasible, I wanted to give the students freedom to choose the aspects that most interest them.  I reasoned that they are more likely to engage in learning when they can choose to learn about something of personal interest to them.
+* I wanted the students to be aware that there are many different ways that energy production and use impact the environment other than the release of carbon dioxide into the atmosphere.
+* I wanted to stress life-cycle analysis and help students understand, for example, that while an electric vehicle does not emit carbon dioxide, the production and distribution of the electricity that powers that vehicle does.
+* I wanted to stress techno-economic analysis and raise the students' awareness that processes must be economically viable in order for anyone to implement them.
+* I wanted to increase student awareness of new technical developments and proposed legislation in the field of energy that relate to its environmental impact.
+* I wanted the students to gain an appreciation of the challenges and consequences of shifting the country’s energy portfolio to one that is more environmentally friendly.
+* Finally, I wanted to stress the positive possibilities and avoid the sense that it is hopeless.
+
+I tried to develop **learning objectives** that, if met, would result in meaningful understanding of energy and the environment, but that still afforded flexibility and latitude with respect to the focus and scope of that understanding. The learning objectives for the course were that upon completion of the course, students would be able to
+
+* list and discuss current issues related to energy and environment,
+* perform preliminary techno-economic and life cycle analyses on an energy flow, and
+* identify and discuss environmental impacts of using different primary energy sources.
+
+The class met twice a week with each meeting lasting 80 minutes. Apart from a few days spent introducing the concepts of energy flows, life-cycle analysis, and techno-economic analysis, the **course structure** consisted of six energy flow analysis cycles together with "current events" presentations. I selected the first energy flow (coal as the starting input and powering an electric vehicle as the end use). The other five were suggested and chosen by the class.
+
+Each energy flow analysis cycle took four class days.
+
+Day 1
+: Selection of the energy flow to be analyzed followed by brainstorming on the steps involved in that energy flow and what the class needed to learn to inform a life cycle analysis and a techno-economic analysis of the energy flow. Over the next two class days, the students were expected to gather relevant facts, data, and information identified during brainstorming, and to add to list of things they needed to learn.
+
+Days 2 and 3
+: During these classes, students were expected to share and discuss the facts, data, and information they had gathered on the basis of the original brainstorming, and to suggest additional topics that needed to be investigated to inform the life cycle and techno-economic analyses.
+
+Day 1 of Next Analysis Cycle
+: By the end of Day 3, above, it was expected that as much information as possible had been gathered. A group of 3 or 4 students were then expected to use the gathered information and make a summary presentation about the energy flow including the technical details of the energy flow, a life cycle analysis and a techno-economic analysis. To afford them sufficient time, Day 1 for the [next]{.underline} energy flow analysis cycle occured between Day 3 and Day 4 of the [current]{.underline} energy flow analysis. This allowed a minimum of one week between the end of information gathering and the due date for the summary presentation.
+
+Day 4
+: A group of 3 or 4 students gave a summary presentation about the energy flow.
+
+In addition to the energy flow analysis activities on a given day, two 15-minute current events presentations were made at every class meeting by individual students on a topic of their choosing. The current event topic was expected to be related in some way to energy and the environment.
+
+The **course logistics** centered on discussion boards on the course learning management system. One discussion board was for students to suggest energy flows to be analyzed in the remaining energy flow analysis cycles. In a survey due at the start of Day 1 above, the students voted for the next energy flow to be analyzed.
+
+Discussion boards were created for each energy flow analysis. As the students gathered information identified during Day 1 brainstorming, they added it to this discussion board. The group making the summary presentation was expected to draw from this information when preparing their presentation, and they were expected to post the slides from their presentation to it.
+
+A separate discussion board was used for current events. Students were expected to post the source article for their current events presentation on this board no more than a week before their presentation. They then posted their slides for the presentation before class on the day they presented it. In choosing their source article, they were expected to check the past and pending presentations to avoid duplicating a previous current event presentation.
+
+The course was dual listed as both an undergraduate and a graduate course. The **expectations** for those taking the undergraduate course were to (1) attend every class and participate in discussions (attendance was recorded for each class), (2) to share at least one item they gathered (based on brainstorming) for each energy flow analysis, and (3) to make two current events presentations to the class. Those taking the graduate course were only expected to make two current events presentaions, but they additionally were expected to participate in two group energy-flow summary presentations.
 
 ## License {.ch}
 
